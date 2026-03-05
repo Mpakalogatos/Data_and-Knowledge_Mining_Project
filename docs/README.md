@@ -44,8 +44,8 @@
 
   ## ✅ Requirments
 
-  -Python 3.x
-  -Pandas
-  -NumPy
-  -Scikit-learn
-  -Matplotlib
+    Python 3.x
+    Pandas
+    NumPy
+    Scikit-learn
+    Matplotlib

@@ -1,12 +1,12 @@
-# Diabetes Risk Prediction via Data Mining
+# 🧬 Diabetes Risk Prediction via Data Mining
 
-## Project Overview
+## 🔬 Project Overview
 
   This project was developed for the Data Mining and Knowledge Discovery course (7th Semester, Academic Year 2024-2025). The primary objective is to leverage data mining techniques to solve real-world healthcare challenges—specifically, predicting the risk of diabetes    using the PIMA Indian Diabetes Dataset.
   
   By analyzing patient metrics, the project aims to help healthcare providers identify high-risk individuals, leading to more proactive and personalized care.
 
-  ## Dataset
+  ## 📚 Dataset
 
   The project utilizes the PIMA Indian Diabetes Dataset (sourced from Kaggle), which includes clinical data for thousands of patients.
 
@@ -14,7 +14,7 @@
     
   Features: Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age.
 
-  ## Methodology & Algorithms
+  ## 📊 Methodology & Algorithms
 
   The project implements two primary data mining approaches using Python:
 
@@ -34,7 +34,7 @@
   
         Process: Features are normalized using StandardScaler before applying the K-Means algorithm with two clusters ($k=2$).
 
-  ## Key Insights & Impact
+  ## 🌿 Key Insights & Impact
 
   - Clinical Benefits: Enables personalized treatment plans and improved resource allocation in clinics.
   
@@ -42,10 +42,10 @@
   
   - Strategic Decisions: The extracted knowledge supports data-driven prevention strategies and population health management.
 
-  ## Requirments
+  ## ✅ Requirments
 
-    * Python 3.x
-    * Pandas
-    * NumPy
-    * Scikit-learn
-    * Matplotlib
+  -Python 3.x
+  -Pandas
+  -NumPy
+  -Scikit-learn
+  -Matplotlib

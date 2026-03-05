@@ -24,7 +24,7 @@
 
   - Goal: Predict categorical outcomes (diabetic vs. non-diabetic) to suggest preventive measures.
 
-        Process: The data is split into training (70%) and testing (30%) sets. A DecisionTreeClassifier is trained to identify patterns that lead to a diabetes diagnosis.
+    - Process: The data is split into training (70%) and testing (30%) sets. A DecisionTreeClassifier is trained to identify patterns that lead to a diabetes diagnosis.
 
   ### 2. Clustering (K-Means)
 
@@ -32,7 +32,7 @@
     
   - Goal: Group patients based on biological similarities to uncover hidden patterns in the data.
   
-        Process: Features are normalized using StandardScaler before applying the K-Means algorithm with two clusters ($k=2$).
+    - Process: Features are normalized using StandardScaler before applying the K-Means algorithm with two clusters ($k=2$).
 
   ## 🌿 Key Insights & Impact
 

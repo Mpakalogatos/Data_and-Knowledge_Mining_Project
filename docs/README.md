@@ -8,11 +8,11 @@
 
   ## 📚 Dataset
 
-  The project utilizes the PIMA Indian Diabetes Dataset (sourced from Kaggle), which includes clinical data for thousands of patients.
+  - The project utilizes the PIMA Indian Diabetes Dataset (sourced from Kaggle), which includes clinical data for thousands of patients.
 
-  Target Variable: Outcome (1 for diabetic, 0 for non-diabetic).
+    - Target Variable: Outcome (1 for diabetic, 0 for non-diabetic).
     
-  Features: Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age.
+    - Features: Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age.
 
   ## 📊 Methodology & Algorithms
 
